@@ -1,0 +1,10 @@
+.newUser {
+    width: 500px;
+    margin: 20px auto;
+    padding: 15px 0px;
+    background-color: #950740;
+}
+
+.hideDisplay {
+    display: none; /*Hidden by default */
+}

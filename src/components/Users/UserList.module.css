@@ -1,0 +1,11 @@
+.userList {
+    width: 500px;
+    margin: auto;
+    background-color: #950740;
+}
+
+.userList ul {
+    padding: 0;
+    width: 100%;
+    margin: 10px 10px;
+}
