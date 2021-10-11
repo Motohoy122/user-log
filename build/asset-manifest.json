@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Motohoy122/user-log/static/css/main.076370b6.chunk.css",
-    "main.js": "/Motohoy122/user-log/static/js/main.254d858f.chunk.js",
-    "main.js.map": "/Motohoy122/user-log/static/js/main.254d858f.chunk.js.map",
-    "runtime-main.js": "/Motohoy122/user-log/static/js/runtime-main.8b0f2e96.js",
-    "runtime-main.js.map": "/Motohoy122/user-log/static/js/runtime-main.8b0f2e96.js.map",
-    "static/js/2.395a65d1.chunk.js": "/Motohoy122/user-log/static/js/2.395a65d1.chunk.js",
-    "static/js/2.395a65d1.chunk.js.map": "/Motohoy122/user-log/static/js/2.395a65d1.chunk.js.map",
-    "index.html": "/Motohoy122/user-log/index.html",
-    "static/css/main.076370b6.chunk.css.map": "/Motohoy122/user-log/static/css/main.076370b6.chunk.css.map",
-    "static/js/2.395a65d1.chunk.js.LICENSE.txt": "/Motohoy122/user-log/static/js/2.395a65d1.chunk.js.LICENSE.txt"
+    "main.css": "/user-log/static/css/main.076370b6.chunk.css",
+    "main.js": "/user-log/static/js/main.254d858f.chunk.js",
+    "main.js.map": "/user-log/static/js/main.254d858f.chunk.js.map",
+    "runtime-main.js": "/user-log/static/js/runtime-main.cde0a925.js",
+    "runtime-main.js.map": "/user-log/static/js/runtime-main.cde0a925.js.map",
+    "static/js/2.395a65d1.chunk.js": "/user-log/static/js/2.395a65d1.chunk.js",
+    "static/js/2.395a65d1.chunk.js.map": "/user-log/static/js/2.395a65d1.chunk.js.map",
+    "index.html": "/user-log/index.html",
+    "static/css/main.076370b6.chunk.css.map": "/user-log/static/css/main.076370b6.chunk.css.map",
+    "static/js/2.395a65d1.chunk.js.LICENSE.txt": "/user-log/static/js/2.395a65d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b0f2e96.js",
+    "static/js/runtime-main.cde0a925.js",
     "static/js/2.395a65d1.chunk.js",
     "static/css/main.076370b6.chunk.css",
     "static/js/main.254d858f.chunk.js"
